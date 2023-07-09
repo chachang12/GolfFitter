@@ -1,0 +1,12 @@
+C:\Users\cadch\OneDrive\DBFINAL23\GolfFitter\GolfFitterLibrary\bin\Debug\net7.0\GolfFitterLibrary.deps.json
+C:\Users\cadch\OneDrive\DBFINAL23\GolfFitter\GolfFitterLibrary\bin\Debug\net7.0\GolfFitterLibrary.dll
+C:\Users\cadch\OneDrive\DBFINAL23\GolfFitter\GolfFitterLibrary\bin\Debug\net7.0\GolfFitterLibrary.pdb
+C:\Users\cadch\OneDrive\DBFINAL23\GolfFitter\GolfFitterLibrary\obj\Debug\net7.0\GolfFitterLibrary.csproj.AssemblyReference.cache
+C:\Users\cadch\OneDrive\DBFINAL23\GolfFitter\GolfFitterLibrary\obj\Debug\net7.0\GolfFitterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadch\OneDrive\DBFINAL23\GolfFitter\GolfFitterLibrary\obj\Debug\net7.0\GolfFitterLibrary.AssemblyInfoInputs.cache
+C:\Users\cadch\OneDrive\DBFINAL23\GolfFitter\GolfFitterLibrary\obj\Debug\net7.0\GolfFitterLibrary.AssemblyInfo.cs
+C:\Users\cadch\OneDrive\DBFINAL23\GolfFitter\GolfFitterLibrary\obj\Debug\net7.0\GolfFitterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cadch\OneDrive\DBFINAL23\GolfFitter\GolfFitterLibrary\obj\Debug\net7.0\GolfFitterLibrary.dll
+C:\Users\cadch\OneDrive\DBFINAL23\GolfFitter\GolfFitterLibrary\obj\Debug\net7.0\refint\GolfFitterLibrary.dll
+C:\Users\cadch\OneDrive\DBFINAL23\GolfFitter\GolfFitterLibrary\obj\Debug\net7.0\GolfFitterLibrary.pdb
+C:\Users\cadch\OneDrive\DBFINAL23\GolfFitter\GolfFitterLibrary\obj\Debug\net7.0\ref\GolfFitterLibrary.dll
